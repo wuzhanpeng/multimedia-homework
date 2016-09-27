@@ -1,3 +1,3 @@
 git add *
-git commit -m "2016-09-27"
+git commit -m `date +%Y-%m-%d`
 git push -u origin master
